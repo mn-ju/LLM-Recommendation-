@@ -1,0 +1,10 @@
+beautifulsoup4
+openai
+langchain
+huggingface
+SpeechRecognition
+qdrant-client
+sentence_transformers
+streamlit
+numpy
+pandas
